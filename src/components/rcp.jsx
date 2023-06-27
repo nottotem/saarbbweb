@@ -6,7 +6,7 @@ import rcpcinco from "../media/rcpcinco.jpg";
 
 function RCP() {
   return (
-    <div className="flex flex-col items-center justify-center w-5/6 lg:w-1/2 h-auto rounded-xl shadow-sm gap-4 lg:gap-8 py-4 lg:py-8">
+    <div className="flex flex-col items-center justify-center w-5/6 lg:w-1/2 h-auto gap-4 lg:gap-8 py-4 lg:py-8">
       <div className="flex items-center justify-center w-full h-auto">
         <h2 className="text-transparent text-lg md:text-lg lg:text-2xl bg-clip-text bg-gradient-to-b from-slate-500 to-slate-800 font-bold">
           Jornada de RCP a la comunidad
