@@ -18,7 +18,7 @@ function MethodsContact() {
         </div>
         <div className="flex items-start w-5/6 h-1/5">
           <p className="text-transparent text-sm md:text-base lg:text-base bg-clip-text bg-gradient-to-b from-neutral-600 to-neutral-900 font-medium">
-            291 455-0375
+            291 536-5702 | 5170671
           </p>
         </div>
       </div>
