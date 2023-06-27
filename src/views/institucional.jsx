@@ -11,7 +11,7 @@ function Institucional() {
             <Navbar />
           </div>
           <div className="flex flex-col items-center justify-center w-full h-4/5">
-            <h1 className="font-mono text-transparent text-3xl md:text-4xl lg:text-5xl bg-clip-text bg-gradient-to-b from-slate-50 to-slate-300 font-bold">
+            <h1 className="font-mono text-transparent text-2xl md:text-4xl lg:text-5xl bg-clip-text bg-gradient-to-b from-slate-50 to-slate-300 font-bold">
               Institucional
             </h1>
           </div>

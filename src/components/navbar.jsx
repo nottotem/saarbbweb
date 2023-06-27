@@ -11,7 +11,7 @@ function Navbar() {
 
   return (
     <div className="flex items-center justify-center w-full">
-      <div className="flex flex-row items-center justify-center w-auto h-full gap-6">
+      <div className="flex flex-row items-center justify-center w-auto h-full gap-2 md:gap-6 lg:gap-6">
         {links.map((link) => (
           <Link key={link.to} to={link.to}>
             <button className="h-2/3 text-slate-50 hover:text-slate-300 font-medium text-sm md:text-base">

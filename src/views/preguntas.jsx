@@ -17,7 +17,7 @@ function Preguntas() {
             <Navbar />
           </div>
           <div className="flex flex-col items-center justify-center w-full h-4/5">
-            <h1 className="flex items-center justify-center h-full font-mono text-transparent text-3xl md:text-4xl lg:text-5xl bg-clip-text bg-gradient-to-b from-slate-50 to-slate-300 font-bold">
+            <h1 className="flex items-center justify-center h-full font-mono text-transparent text-2xl md:text-4xl lg:text-5xl bg-clip-text bg-gradient-to-b from-slate-50 to-slate-300 font-bold">
               Preguntas frecuentes
             </h1>
           </div>
