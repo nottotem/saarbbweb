@@ -27,15 +27,15 @@ function RCP() {
           información y luego se llevo a cabo la practica con muñecos de RCP.
         </span>
       </div>
-      <div className="flex flex-row lg:flex-row items-center justify-center w-5/6 4/5 h-auto gap-2">
-        <div className="w-1/2 lg:w-1/2 h-auto">
+      <div className="flex flex-row items-center justify-center w-5/6 4/5 h-auto gap-2">
+        <div className="w-1/2 h-auto">
           <img
             src={rcpuno}
             alt="uno"
             className="w-auto h-1/2 rounded-xl brightness-75 shadow-sm"
           />
         </div>
-        <div className="w-1/2 lg:w-1/2 h-auto">
+        <div className="w-1/2 h-auto">
           <img
             src={rcptres}
             alt="dos"
