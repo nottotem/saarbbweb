@@ -50,10 +50,10 @@ function Inicio() {
             <Navbar />
           </div>
           <div className="flex flex-col items-center justify-center w-full h-4/5">
-            <h1 className="font-mono text-transparent text-xl md:text-3xl lg:text-5xl bg-clip-text bg-gradient-to-b from-slate-50 to-slate-300 font-bold h-8 md:h-16 lg:h-16">
+            <h1 className="font-mono text-transparent text-md md:text-3xl lg:text-5xl bg-clip-text bg-gradient-to-b from-slate-50 to-slate-300 font-bold h-6 md:h-16 lg:h-16">
               Sociedad de Anestesia Analgesia y
             </h1>
-            <h1 className="font-mono text-transparent text-xl md:text-3xl lg:text-4xl bg-clip-text bg-gradient-to-b from-slate-50 to-slate-300 font-bold">
+            <h1 className="font-mono text-transparent text-md md:text-3xl lg:text-4xl bg-clip-text bg-gradient-to-b from-slate-50 to-slate-300 font-bold">
               Reanimacion de Bahía Blanca
             </h1>
           </div>
