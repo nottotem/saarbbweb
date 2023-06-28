@@ -31,7 +31,7 @@ function FrecuentQuestions() {
           key={index}
           className="flex flex-col w-11/12 md:w-5/6 lg:w-5/6 h-auto gap-4 rounded-xl border border-slate-400 shadow-sm p-8"
         >
-          <p className="flex flex-row gap-2 text-lg md:text-2xl lg:text-2xl font-bold text-[#004483]">
+          <p className="flex flex-row gap-2 text-md md:text-lg lg:text-lg font-bold text-[#004483]">
             <HiOutlineArrowDownRight className="text-[#d54a45]" />{" "}
             {item.pregunta}
           </p>
