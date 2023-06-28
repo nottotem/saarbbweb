@@ -8,7 +8,7 @@ function RCP() {
   return (
     <div className="flex flex-col items-center justify-center w-5/6 lg:w-1/2 h-auto gap-4 lg:gap-8 py-4 lg:py-8">
       <div className="flex items-center justify-center w-full h-auto">
-        <h2 className="text-transparent text-lg md:text-lg lg:text-2xl bg-clip-text bg-gradient-to-b from-slate-500 to-slate-800 font-bold">
+        <h2 className="text-transparent text-lg md:text-xl lg:text-2xl bg-clip-text bg-gradient-to-b from-slate-500 to-slate-800 font-bold">
           Jornada de RCP a la comunidad
         </h2>
       </div>
@@ -28,7 +28,7 @@ function RCP() {
         </span>
       </div>
       <div className="flex flex-col lg:flex-row items-center justify-center w-5/6 4/5 h-auto gap-2">
-        <div className="w-full lg:w-1/2 h-auto">
+        <div className="w-2/3 lg:w-1/2 h-auto">
           <img
             src={rcpuno}
             alt="uno"
@@ -61,7 +61,7 @@ function RCP() {
             className="w-auto h-1/2 rounded-xl brightness-75 shadow-sm"
           />
         </div>
-        <div className="w-full lg:w-1/2 h-auto">
+        <div className="w-2/3 lg:w-1/2 h-auto">
           <img
             src={rcpcinco}
             alt="dos"
